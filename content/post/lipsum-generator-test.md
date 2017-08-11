@@ -4,11 +4,11 @@ tags = []
 title = "Lipsum Generator Test"
 
 +++
-
-
 ## Lorem ipsum dolor sit amet
 
 <hr>
+
+{{< figure src="/uploads/2017/08/11/IMG_3639.JPG" title="Van" >}}
 
 **Lorem ipsum dolor sit amet**<span style="font-size: 1rem;">, consectetur adipiscing elit. Ut libero nunc, eleifend mollis massa vel, posuere volutpat est. Maecenas vel tellus dolor. Aliquam ipsum arcu, efficitur bibendum tincidunt tempus, semper ut neque. Sed vestibulum sem dui, ullamcorper mollis tellus sollicitudin efficitur. Sed ac felis id dolor varius tincidunt et consectetur justo. </span><a href="lipsum.com" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Vivamus tincidunt nibh</a><span style="font-size: 1rem;"> et vestibulum sollicitudin. Mauris et tincidunt est, quis lacinia nisl. Donec sed massa ac orci malesuada tincidunt vitae sit amet leo. Mauris convallis pharetra leo et viverra. Maecenas at semper arcu, vitae efficitur nisl. Pellentesque interdum turpis a felis facilisis, vitae bibendum felis ultricies. Integer nisi velit, congue vitae ante vitae, aliquet condimentum diam. Nulla bibendum diam ut cursus sollicitudin. Pellentesque tincidunt tristique odio, nec tincidunt lectus sagittis non.</span>
 
