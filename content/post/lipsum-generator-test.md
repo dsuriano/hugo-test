@@ -4,8 +4,6 @@ tags = []
 title = "Lipsum Generator Test"
 
 +++
-
-
 ## Lorem ipsum dolor sit amet
 
 <hr>

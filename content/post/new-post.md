@@ -1,8 +1,8 @@
 ---
 layout: post
 title: New Post!
-date: 2017-08-18T09:08:03-04:00
-draft: false
+date: 2017-08-18 09:08:03 -0400
+
 ---
 Check it out dude.
 
