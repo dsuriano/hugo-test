@@ -23,6 +23,10 @@ name = "envelope-o"
 url = "mailto:me@example.com"
 weight = 1
 [[menu.main]]
+name = "Links"
+url = "/links/"
+weight = 4
+[[menu.main]]
 name = "Projects"
 url = "/project/"
 weight = 3

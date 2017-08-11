@@ -6,9 +6,5 @@ tags:
 - highlight-js
 - syntax-highlighting
 weight: 4
-menu:
-  main:
-    name: Links
-    weight: 2
 
 ---
