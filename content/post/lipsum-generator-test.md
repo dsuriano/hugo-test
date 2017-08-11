@@ -31,12 +31,12 @@ title = "Lipsum Generator Test"
 date = "2017-08-11T13:00:00-04:00"
 
 +++
-
-
 ## Lorem ipsum dolor sit amet
 
 <hr>
-
+<p class='specialParagraph' markdown='1'>
+**Another paragraph** which allows *Markdown* within it.
+</p>
 <span style="font-size: 1rem;"><br></span>
 
 <span style="font-size: 1rem;"></span>
@@ -58,4 +58,3 @@ Aliquam pretium nec erat ut ullamcorper. Suspendisse ut arcu ac tortor commodo r
 1. <span style="font-size: 1rem;">Sed at elit molestie, sodales felis ac, tempor lectus. Mauris a ex vel nunc aliquam porttitor.</span>
 
 Nunc interdum lorem dolor, ac vulputate felis mattis vel. Morbi sem risus, ultrices in fringilla in, congue convallis elit. Proin elit lorem, cursus quis tempor vel, suscipit non augue. Integer sollicitudin leo eget ante vestibulum feugiat. Etiam arcu augue, cursus sit amet tincidunt in, blandit in neque. Suspendisse ac ex ac ipsum ornare elementum. Nunc pulvinar pulvinar purus, vitae hendrerit lectus blandit sed. Maecenas vel lacinia enim, eu placerat leo. Donec eget libero ipsum. Phasellus posuere ipsum mauris, at tristique ex fringilla varius. Suspendisse quis ligula leo. In hac habitasse platea dictumst. Sed a pulvinar neque. Ut sagittis turpis lorem, eget facilisis neque vehicula lacinia. Phasellus justo eros, interdum eget imperdiet a, lacinia sit amet tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
