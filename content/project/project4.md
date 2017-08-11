@@ -9,6 +9,6 @@ weight: 4
 menu:
   main:
     name: Links
-    weight: 1
+    weight: 2
 
 ---
