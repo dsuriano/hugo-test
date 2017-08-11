@@ -1,5 +1,4 @@
 +++
-draft = true
 tags = []
 title = "Lipsum Generator Test"
 [date]
