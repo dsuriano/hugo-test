@@ -39,7 +39,7 @@ name = "Home"
 url = "/"
 weight = 1
 [params]
-accent = "red"
+accent = "green"
 author = "Calin Tataru"
 backgroundcolor = "white"
 description = "Personal blog theme powered by Hugo"
