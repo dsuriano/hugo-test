@@ -4,19 +4,13 @@ tags = []
 title = "Lipsum Generator Test"
 
 +++
+
+
 ## Lorem ipsum dolor sit amet
 
 <hr>
-<p class='specialParagraph' markdown='1'>
-**Another paragraph** which allows *Markdown* within it.
-</p>
-<span style="font-size: 1rem;"><br></span>
 
-<span style="font-size: 1rem;"></span>
-
-![](/uploads/2017/08/11/IMG_3639.JPG)
-
-<span style="font-size: 1rem;"><b>Lorem ipsum dolor sit amet</b>, consectetur adipiscing elit. Ut libero nunc, eleifend mollis massa vel, posuere volutpat est. Maecenas vel tellus dolor. Aliquam ipsum arcu, efficitur bibendum tincidunt tempus, semper ut neque. Sed vestibulum sem dui, ullamcorper mollis tellus sollicitudin efficitur. Sed ac felis id dolor varius tincidunt et consectetur justo. <a href="lipsum.com">Vivamus tincidunt nibh</a> et vestibulum sollicitudin. Mauris et tincidunt est, quis lacinia nisl. Donec sed massa ac orci malesuada tincidunt vitae sit amet leo. Mauris convallis pharetra leo et viverra. Maecenas at semper arcu, vitae efficitur nisl. Pellentesque interdum turpis a felis facilisis, vitae bibendum felis ultricies. Integer nisi velit, congue vitae ante vitae, aliquet condimentum diam. Nulla bibendum diam ut cursus sollicitudin. Pellentesque tincidunt tristique odio, nec tincidunt lectus sagittis non.</span>
+**Lorem ipsum dolor sit amet**<span style="font-size: 1rem;">, consectetur adipiscing elit. Ut libero nunc, eleifend mollis massa vel, posuere volutpat est. Maecenas vel tellus dolor. Aliquam ipsum arcu, efficitur bibendum tincidunt tempus, semper ut neque. Sed vestibulum sem dui, ullamcorper mollis tellus sollicitudin efficitur. Sed ac felis id dolor varius tincidunt et consectetur justo. </span><a href="lipsum.com" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Vivamus tincidunt nibh</a><span style="font-size: 1rem;"> et vestibulum sollicitudin. Mauris et tincidunt est, quis lacinia nisl. Donec sed massa ac orci malesuada tincidunt vitae sit amet leo. Mauris convallis pharetra leo et viverra. Maecenas at semper arcu, vitae efficitur nisl. Pellentesque interdum turpis a felis facilisis, vitae bibendum felis ultricies. Integer nisi velit, congue vitae ante vitae, aliquet condimentum diam. Nulla bibendum diam ut cursus sollicitudin. Pellentesque tincidunt tristique odio, nec tincidunt lectus sagittis non.</span>
 
 Aliquam pretium nec erat ut ullamcorper. Suspendisse ut arcu ac tortor commodo rutrum eget id massa. Aliquam nec sagittis metus, ac mattis metus. Ut arcu lectus, dignissim nec tempor egestas, egestas in augue. Nulla felis velit, sodales nec sem nec, lacinia pulvinar dui. Duis euismod pretium ante ac mattis. Aliquam gravida imperdiet massa, sed pellentesque metus auctor a. Sed aliquam magna augue, nec luctus odio commodo sit amet. Sed mollis vitae orci et venenatis. Pellentesque pellentesque sagittis metus, euismod imperdiet purus tempus vel.
 
